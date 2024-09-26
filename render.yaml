@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-ab
+    name: google-1118
     env: python
     region: Oregon
     plan: free
