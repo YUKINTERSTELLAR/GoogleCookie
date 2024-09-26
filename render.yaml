@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-1118
+    name: google-kanemitu-no-youtoube
     env: python
     region: Oregon
     plan: free
